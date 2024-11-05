@@ -10,7 +10,7 @@ In this Django Project, the default SQLite database is used. The code is divided
 
 Steps to run this repository<br/>
 In terminal type:<br/>
-Step 1: >> git clone https://github.com/username/KiwiQ_Assignment.git<br/>
+Step 1: >> git clone https://github.com/SamaySawal/KiwiQ_Assignment.git<br/>
 Step 2: >> cd KiwiQ_Assignment<br/>
 Step 3: >> python manage.py migrate<br/>
 Step 4: >> python manage.py runserver<br/>
